@@ -8,8 +8,6 @@ With **features like Auto Steal, No Kick Bypass, and Smart Teleport**, Solara go
 
 ---
 
-![Banner](https://i.ytimg.com/vi/LcA93w9u2fU/maxresdefault.jpg)
-
 ## 🤖 Better, Smarter Features
 
 Solara isn't just another copy-paste script. It's built for performance, intelligence, and evasion.
